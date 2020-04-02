@@ -7,7 +7,7 @@ This example shows how to connect to Cayenne using an LilyGO T-HiGrow and send/r
 3. After logging in, you will see the dashboard, click **Add new** in the upper left,Choose **Generic ESP8266**,Then you can see the MQTT username, password and ID you need to use,Replace it with the definition in `main.cpp`
 4. Set the network name and password.
 5. In `arduino ide` you need to change the port number corresponding to your board
-6. Compile and upload the sketch.(The arrow at the bottom left of the IDE editor)
+6. Compile and upload the sketch.
 7. A temporary widget will be automatically generated in the Cayenne Dashboard. To make the widget permanent click the plus sign on the widget.
 
 2019/12/23 lewis he
